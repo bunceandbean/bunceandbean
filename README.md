@@ -1,4 +1,4 @@
-<img align="left" src="https://64.media.tumblr.com/ce2fe785fbc4e35299a6e06dfdba4a69/tumblr_n62pyldqj91rt6u7do1_r1_500.gifv" width = "266" height = "210">
+<img align="left" src="https://benlilley.dev/media/fmf.gif" width = "266" height = "210">
 
 ### Hey!
 
