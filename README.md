@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align="left" src="https://64.media.tumblr.com/ce2fe785fbc4e35299a6e06dfdba4a69/tumblr_n62pyldqj91rt6u7do1_r1_500.gifv" width = "266" height = "210">
 
-<!--
-**bunceandbean/bunceandbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!
 
-Here are some ideas to get you started:
+I'm a Purdue CS student who is passionate about **computational mathematics** and likes to **write code**.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few interesting **projects** (written in **Python**, **[PHP](https://www.youtube.com/watch?v=qvXKmffeMkU)**, **Java**, **JS**) that I've worked on:
+
+- [Advent of Code](https://github.com/bunceandbean/advent-of-code) - A repository full of my [Advent of Code](https://adventofcode.com) solutions.
+- [OEIS Terminal](https://github.com/bunceandbean/oeis-terminal) - A ***soon-to-be*** terminal-based system for utilizing the [OEIS](https://oeis.org).
+- [Fishers Enigma](https://github.com/bunceandbean/FishersEnigma) - A old puzzle game I created from scratch for my friends to participate in.
+- [Organic Portfolio](https://github.com/bunceandbean/organic-portfolio) - A small website for organic chemistry students to utilize.
+- [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
+- [benlilley.dev](https://benlilley.dev/) - `git commit -m "bunceandbean's developer website"`
+
+I am currently studying computer science and mathematics at [Purdue University](https://purdue.edu/).
+ Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about **internship-related** matters.
+
+If you want to support my work, consider [buying me a coffee](https://venmo.com/u/Ben-Lilley-4) on **Venmo**. 
+Big thanks to all my friends and educators who inspired me to get this far in computer science.
+
+~ _bunceandbean (AKA Ben Lilley)_
