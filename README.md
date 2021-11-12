@@ -23,6 +23,5 @@ I am currently studying computer science and mathematics at [Purdue University](
  Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about **internship-related** matters.
 
 If you want to support my work, consider [buying me a coffee](https://venmo.com/u/Ben-Lilley-4) on **Venmo**. 
-Big thanks to all my friends and educators who inspired me to get this far in computer science.
 
 ~ _bunceandbean (AKA Ben Lilley)_
