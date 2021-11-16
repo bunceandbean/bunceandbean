@@ -14,7 +14,7 @@ Here are a few interesting **projects** (written in **Python**, **[PHP](https://
 
 - [Advent of Code](https://github.com/bunceandbean/advent-of-code) - A repository full of my [Advent of Code](https://adventofcode.com) solutions.
 - [OEIS Terminal](https://github.com/bunceandbean/oeis-terminal) - A ***soon-to-be*** terminal-based system for utilizing the [OEIS](https://oeis.org).
-- [Fishers Enigma](https://github.com/bunceandbean/FishersEnigma) - A old puzzle game I created from scratch for my friends to participate in.
+- [Fishers Enigma](https://github.com/bunceandbean/FishersEnigma) - An old puzzle game I created from scratch for my friends to participate in.
 - [Organic Portfolio](https://github.com/bunceandbean/organic-portfolio) - A small website for organic chemistry students to utilize.
 - [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
 - [benlilley.dev](https://benlilley.dev/) - `git commit -m "bunceandbean's developer website"`
