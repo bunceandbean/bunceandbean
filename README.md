@@ -13,10 +13,10 @@ I'm a Purdue CS student who is passionate about **computational mathematics** an
 Here are a few interesting **projects** (written in **Python**, **[PHP](https://www.youtube.com/watch?v=qvXKmffeMkU)**, **Java**, **JS**) that I've worked on:
 
 - [Advent of Code](https://github.com/bunceandbean/advent-of-code) - A repository full of my [Advent of Code](https://adventofcode.com) solutions.
-- [Wordle Helper](https://github.com/bunceandbean/wordle-helper) - A Python-based system for assistance in [Wordle](https://www.powerlanguage.co.uk/wordle/).
+- [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
 - [Fishers Enigma](https://github.com/bunceandbean/FishersEnigma) - An old puzzle game I created from scratch for my friends to participate in.
 - [Organic Portfolio](https://github.com/bunceandbean/organic-portfolio) - A small website for organic chemistry students to utilize.
-- [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
+- [Wordle Helper](https://github.com/bunceandbean/wordle-helper) - A Python-based system for assistance in [Wordle](https://www.powerlanguage.co.uk/wordle/).
 - [benlilley.dev](https://benlilley.dev/) - `git commit -m "bunceandbean's developer website"`
 
 I am currently studying computer science and mathematics at [Purdue University](https://purdue.edu/).
