@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm a Purdue CS student who is passionate about **computational mathematics** and likes to **write code**.
+I'm a Purdue CS student who is passionate about **computational mathematics** and programming.
 <br>
 <br>
 <br>
