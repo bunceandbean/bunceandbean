@@ -17,7 +17,7 @@ Here are a few interesting **projects** (written in **Python**, **[PHP](https://
 - [Fishers Enigma](https://github.com/bunceandbean/FishersEnigma) - An old puzzle game I created from scratch for my friends to participate in.
 - [Organic Portfolio](https://github.com/bunceandbean/organic-portfolio) - A small website for organic chemistry students to utilize.
 - [Wordle Helper](https://github.com/bunceandbean/wordle-helper) - A Python-based system for assistance in [Wordle](https://www.powerlanguage.co.uk/wordle/).
-- [benlilley.dev](https://benlilley.dev/) - `git commit -m "bunceandbean's developer website"`
+- [benlilley.dev](https://github.com/bunceandbean/benlilley.dev) - `git commit -m "bunceandbean's developer website"`
 
 I am currently studying computer science and mathematics at [Purdue University](https://purdue.edu/).
  Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about **internship-related** matters.
