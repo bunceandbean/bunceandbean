@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm a Purdue CS student who is passionate about **computational mathematics** and programming.
+I'm a Purdue math and computer science student!
 <br>
 <br>
 <br>
@@ -10,7 +10,7 @@ I'm a Purdue CS student who is passionate about **computational mathematics** an
 <br>
 <br>
 
-Here are a few interesting **projects** (written in **Python**, **[PHP](https://www.youtube.com/watch?v=qvXKmffeMkU)**, **Java**, **JS**) that I've worked on:
+Here are a few interesting projects (written in Python, [PHP](https://www.youtube.com/watch?v=qvXKmffeMkU), Java, JS) that I've worked on:
 
 - [Advent of Code](https://github.com/bunceandbean/advent-of-code) - A repository full of my [Advent of Code](https://adventofcode.com) solutions.
 - [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
@@ -20,8 +20,6 @@ Here are a few interesting **projects** (written in **Python**, **[PHP](https://
 - [benlilley.dev](https://github.com/bunceandbean/benlilley.dev) - `git commit -m "bunceandbean's developer website"`
 
 I am currently studying computer science and mathematics at [Purdue University](https://purdue.edu/).
- Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about **internship-related** matters.
-
-If you want to support my work, consider [buying me a coffee](https://venmo.com/u/Ben-Lilley-4) on **Venmo**. 
+ Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about internship-related matters.
 
 ~ _bunceandbean (AKA Ben Lilley)_
