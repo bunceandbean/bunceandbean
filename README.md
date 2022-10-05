@@ -9,6 +9,7 @@ I'm a Purdue math and computer science student!
 <br>
 <br>
 <br>
+<br>
 
 Here are a few interesting projects (written in Python, [PHP](https://www.youtube.com/watch?v=qvXKmffeMkU), Java, JS) that I've worked on:
 
