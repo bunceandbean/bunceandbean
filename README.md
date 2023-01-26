@@ -1,15 +1,6 @@
-<img align="left" src="https://benlilley.neocities.org/fmf.gif" width = "266" height = "210">
-
-### Hey!
+<h1> Hey! </h1>
 
 I'm a Purdue math and computer science student!
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 Here are a few interesting projects (written in Python, [PHP](https://www.youtube.com/watch?v=qvXKmffeMkU), Java, JS) that I've worked on:
 
@@ -24,3 +15,9 @@ I am currently studying computer science and mathematics at [Purdue University](
  Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-) about internship-related matters.
 
 ~ _bunceandbean (AKA Ben Lilley)_
+<p align="center">
+ <img src="https://benlilley.neocities.org/fmf.gif" width = "266" height = "210">
+ <br>
+ <i> "Good luck out there..." </i>
+</p>
+
