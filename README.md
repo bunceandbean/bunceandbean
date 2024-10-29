@@ -15,8 +15,8 @@ I am currently studying computer science at [Purdue University](https://purdue.e
  Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ben-lilley-).
 
 <p align="center">
- <img src="https://benlilley.neocities.org/fmf.gif" width = "266" height = "210">
+<br>
  <br>
- <i> "Good luck out there..." </i>
+ <img src="https://i.gifer.com/ZC9K.gif" width = "266" height = "210">
 </p>
 
