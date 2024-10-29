@@ -4,7 +4,7 @@ I'm a Purdue computer science student!
 
 Here are a few interesting projects (written in C, C++, Python, and more) that I've worked on:
 
-- [USC Compiler](https://github.com/bunceandbean/USC-Compiler) - A University Simple C compiler made using LLVM and C++. Once you link a local copy of LLVM to it, it can compile and optimize and USC program!
+- [USC Compiler](https://github.com/bunceandbean/USC-Compiler) - A University Simple C compiler made using LLVM and C++. Once you link a local copy of LLVM to it, it can compile and optimize and [USC](https://itp439-20231.github.io/USCLanguage.html) program!
 - [Advent of Code](https://github.com/bunceandbean/advent-of-code) - A repository full of my [Advent of Code](https://adventofcode.com) solutions.
 - [Eras Tour Surprise Song Tracker](https://github.com/bunceandbean/eras-tour-surprise-songs) - A React web app that shows the current surprise songs for Taylor Swfit's Era's Tour. Used by swifties around the world! Currently live and up to date at [suprisesongs.app](https://surprisesongs.app)!
 - [SchedLink](https://schedlink.com/) - A time management system for Fishers High School students.
