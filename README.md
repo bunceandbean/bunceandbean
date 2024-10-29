@@ -1,4 +1,4 @@
-I'm a Purdue math and computer science student!
+I'm a Purduecomputer science student!
 
 Here are a few interesting projects (written in C, C++, Python, and more) that I've worked on:
 
