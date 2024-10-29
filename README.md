@@ -1,4 +1,6 @@
-I'm a Purduecomputer science student!
+# Hey!
+
+I'm a Purdue computer science student!
 
 Here are a few interesting projects (written in C, C++, Python, and more) that I've worked on:
 
